@@ -1,0 +1,5 @@
+Libro                          | Prestatario          | Fecha
+------------------------------------------------------------
+Didactica para la Educacion    | Viviana Gonzalez     | 01/11/2024
+Don Quijote                    | Gonzalo Perrone      | 06/11/2024
+El viaje hacia el mar          | Maria Perrone        | 01/11/2024
